@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 int main(){
 	char day = 's';
 	char* point = &day;
-	std::cout<<point;
+	cout<<point;
 return 0;
 }
 
